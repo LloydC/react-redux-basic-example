@@ -1,6 +1,3 @@
-# ReactJS Basics
+# ReactJS Redux/ Basic Example 
 
-This repository accompanies my ReactJS / Redux - Basics YouTube Series.
-
-# Usage
-Switch to the branch you're interested in (branches = different stages in the series) and compare/ download the source code.
+A simple application demonstrating the standard project structure of a React application that uses the Redux library.
